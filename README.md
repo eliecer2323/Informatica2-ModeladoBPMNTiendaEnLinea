@@ -18,6 +18,13 @@ Alejandro Paolo Daza Corredor
 
 ## Resultado
 
+- Modelo Despacho
+![despacho](https://user-images.githubusercontent.com/112450696/189788058-bde7f549-ae72-44f9-b53a-1741a6b58a4c.png)
+- Modelo Encuesta Satisfaccion
+![encuesta-satisfacci-n](https://user-images.githubusercontent.com/112450696/189788062-870e2db7-093c-4d6a-be41-3aac4ea66e80.png)
+- Modelo Sugerir Productos
+![sugerir-productos](https://user-images.githubusercontent.com/112450696/189788065-93e90c3a-6c68-4188-877a-7ddb752997e5.png)
+
 
 ## Observaciones
 Modelamiento de los procesos de una tienda en linea
