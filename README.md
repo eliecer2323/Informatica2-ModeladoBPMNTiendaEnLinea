@@ -18,6 +18,13 @@ Alejandro Paolo Daza Corredor
 
 ## Resultado
 
+
+- Modelo General
+![general](https://user-images.githubusercontent.com/108058961/189788184-81e0b7c6-69f9-49b1-b8c5-5b81239cec38.png)
+- Modelo de pago
+![pago](https://user-images.githubusercontent.com/108058961/189788170-5881f7f2-f0b9-4e1c-a98a-6582f4cd0d25.png)
+- Modelo de pago
+![devoluci-n-pedido](https://user-images.githubusercontent.com/108058961/189788178-9d74cafd-0756-4454-8db7-c946b755212e.png)
 - Modelo Despacho
 ![despacho](https://user-images.githubusercontent.com/112450696/189788058-bde7f549-ae72-44f9-b53a-1741a6b58a4c.png)
 - Modelo Encuesta Satisfaccion
